@@ -1,13 +1,14 @@
 h1{
+    width: 100%;
     color: blue;
 }
 
 body{
-    background-color:beige ;
+    background-color:black ;
     text-align: center;
 }
 
 p{
-    color: blueviolet;
+    color: white;
    text-align: center;
 }
