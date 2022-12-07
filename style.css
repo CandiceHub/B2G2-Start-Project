@@ -4,11 +4,12 @@ h1{
 }
 
 body{
-    background-color:black ;
+    background-color:red ;
     text-align: center;
 }
 
 p{
-    color: white;
+    color: chartreuse;
    text-align: center;
+   font-family: cursive;
 }
